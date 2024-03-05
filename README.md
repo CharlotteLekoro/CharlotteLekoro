@@ -4,7 +4,7 @@
 
 As a software engineering student, I am deeply passionate about learning and mastering various technologies to build innovative and impactful solutions. Currently, I am focusing on honing my skills in HTML, CSS with TailWind CSS, and JavaScript. 
 
-I have undertaken several small projects to demonstrate my proficiency and application of these technologies. Through rigorous reading and self-learning, I continuously strive to expand my knowledge and stay abreast of the latest advancements in web development. With a keen interest in problem-solving and a dedication to excellence, I am committed to becoming a proficient and versatile software engineer capable of tackling diverse challenges in the field.
+I have undertaken several small projects to demonstrate my proficiency and application of these technologies. Through rigorous reading and self-learning, I continuously strive to expand my knowledge and stay abreast of the latest advancements in web development. With a keen interest in problem-solving and a dedication to excellence, I am committed to becoming a proficient and versatile software engineer capable of tackling diverse challenges in the field.<img src="https://www.reddit.com/r/gifs/comments/6cm48a/downloading/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" width="50px">
 
 <!--
 **CharlotteLekoro/CharlotteLekoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
