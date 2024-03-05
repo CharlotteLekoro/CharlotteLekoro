@@ -2,7 +2,9 @@
 
 ---
 
-As a software engineering student, I am deeply passionate about learning and mastering various technologies to build innovative and impactful solutions. Currently, I am focusing on honing my skills in HTML, CSS with TailWind CSS, and JavaScript. 
+ 
+ ## Software Engineering Student
+I am an software engineering student from CodeSpace Academy's comprehensive Software Development course. I am proficient in  JavaScript,  HTML, and CSS.
 
 I have undertaken several small projects to demonstrate my proficiency and application of these technologies. Through rigorous reading and self-learning, I continuously strive to expand my knowledge and stay in touch with the latest advancements in web development. With a keen interest in problem-solving and a dedication to excellence, I am committed to becoming a proficient and versatile software engineer capable of tackling diverse challenges in the field.
 
