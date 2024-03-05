@@ -1,5 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFmem5mdXExc3FzbWx5djkyOWNwd3RqdTg5bWtkM25wdGJ1YjNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9m1FXNqlNNPndSMauI/giphy.gif" width="30px">, I am Charlotte Lekoro!
 
+---
+
+As a software engineering student, I am deeply passionate about learning and mastering various technologies to build innovative and impactful solutions. Currently, I am focusing on honing my skills in HTML, CSS with TailWind CSS, and JavaScript. 
+
+I have undertaken several small projects to demonstrate my proficiency and application of these technologies. Through rigorous reading and self-learning, I continuously strive to expand my knowledge and stay abreast of the latest advancements in web development. With a keen interest in problem-solving and a dedication to excellence, I am committed to becoming a proficient and versatile software engineer capable of tackling diverse challenges in the field.
+
 <!--
 **CharlotteLekoro/CharlotteLekoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
