@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFmem5mdXExc3FzbWx5djkyOWNwd3RqdTg5bWtkM25wdGJ1YjNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9m1FXNqlNNPndSMauI/giphy.gif" width="30px">, I am Charlotte Lekoro!
 
 <!--
 **CharlotteLekoro/CharlotteLekoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
