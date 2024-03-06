@@ -4,8 +4,8 @@
 
  
  ## Software Engineering Student
-I am an software engineering student from CodeSpace Academy's comprehensive Software Development course. I am proficient in  JavaScript,  HTML, and CSS.
-
+I am an software engineering student from CodeSpace Academy's comprehensive Software Development course. I am proficient in  JavaScript,  HTML, and CSS.<br></br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500"><br></br>
 I have undertaken several small projects to demonstrate my proficiency and application of these technologies. Through rigorous reading and self-learning, I continuously strive to expand my knowledge and stay in touch with the latest advancements in web development. With a keen interest in problem-solving and a dedication to excellence, I am committed to becoming a proficient and versatile software engineer capable of tackling diverse challenges in the field.
 
 ---
